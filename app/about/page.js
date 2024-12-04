@@ -16,18 +16,18 @@ export default function Page() {
 
         <div className="space-y-8">
           <p>
-            CollabSphere is where ideas flourish and collaboration thrives. It's 
+            CollabSphere is where ideas flourish and collaboration thrives. It is 
             your ultimate platform to connect, brainstorm, and achieve success as a team. 
-            In today's fast-paced world, teamwork is essential, and CollabSphere 
+            In today fast-paced world, teamwork is essential, and CollabSphere 
             provides the perfect environment for seamless interaction and productivity.
           </p>
           <p>
             From small startups to large enterprises, our tools are designed to adapt 
-            to your team's needs. Whether you're planning projects, assigning tasks, 
+            to your team needs. Whether you are planning projects, assigning tasks, 
             or simply sharing updates, CollabSphere makes it effortless and intuitive.
           </p>
           <p>
-            This is more than just a workspace—it's a hub where creativity meets execution, 
+            This is more than just a workspace—it a hub where creativity meets execution, 
             and teams come together to make impactful decisions. Join us and see how 
             CollabSphere transforms the way you work.
           </p>
@@ -60,11 +60,11 @@ export default function Page() {
         <div className="space-y-8">
           <p>
             CollabSphere was built with one mission in mind: to empower teams and 
-            foster collaboration. From our humble beginnings, we've dedicated ourselves 
+            foster collaboration. From our humble beginnings, we have dedicated ourselves 
             to creating a space where every team member feels valued and equipped to contribute.
           </p>
           <p>
-            Over the years, we've fine-tuned our platform to meet the evolving needs 
+            Over the years, we have fine-tuned our platform to meet the evolving needs 
             of modern workplaces. Our commitment to innovation and user satisfaction 
             has made CollabSphere a trusted name in team collaboration.
           </p>
